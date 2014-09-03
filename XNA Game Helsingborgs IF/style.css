@@ -1,0 +1,44 @@
+#body
+{
+height: 0 auto;
+width: 0 auto;	
+	
+}
+
+
+#mayLeft
+{
+	display: inline;
+
+margin-top: 100px;
+	margin-left: 50px;
+}
+
+
+#mayRight
+{
+	display: inline;
+	margin-left: 50px;
+}
+
+#mayWin
+{
+display: inline;	
+
+
+}
+
+
+#playArea
+{
+
+background-image: url(models/olympiaAlt.jpg);
+height: 649px;
+width: 960px;
+margin-left: 300px;
+}
+
+
+
+
+

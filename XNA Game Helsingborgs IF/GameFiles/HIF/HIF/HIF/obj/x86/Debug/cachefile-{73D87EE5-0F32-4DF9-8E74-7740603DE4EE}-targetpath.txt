@@ -1,0 +1,8 @@
+Content\mayStatic.xnb
+Content\ball.xnb
+Content\block.xnb
+Content\difHIF.xnb
+Content\quitscreen.xnb
+Content\mayLeft.xnb
+Content\mayRight.xnb
+Content\menufont.xnb
